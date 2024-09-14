@@ -78,14 +78,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/harshal18z/harshal18z/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/harshal18z/count.svg?"  />
-</div>
 
 ###
