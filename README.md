@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="63" alt="javascript logo"  />
   <img width="12" />
@@ -78,6 +74,20 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshal18z/harshal18z/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+
+<div align="center">
+  <img height="70" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="270" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+</div>
 
 ###
