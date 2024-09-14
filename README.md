@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Full Stack Developer | MERN Stack Enthusiast<br>🚀 Founder @ CodeVertex (IT Consultancy)<br>🎓 Organizer @ GDG On Campus | GDSC Lead<br>💡 Passionate about building innovative web apps and creating tech solutions! Always learning & sharing 🚀</h2>
+<h5 align="left">👨‍💻 Full Stack Developer | MERN Stack Enthusiast<br>🚀 Founder @ CodeVertex (IT Consultancy)<br>🎓 Organizer @ GDG On Campus | GDSC Lead<br>💡 Passionate about building innovative web apps and creating tech solutions! Always learning & sharing 🚀</h5>
 
 ###
 
